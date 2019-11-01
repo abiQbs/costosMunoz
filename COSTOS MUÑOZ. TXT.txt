@@ -1,0 +1,8 @@
+DEFINICION DE COSTOS DE CALIDAD
+>Entregar un producto al cliente que cumpla con las especificaciones solicitadas, los costos de calidad juegan un papel importante
+>Consiste en identificar y cuantificar todos los costos de verificar derivados del esfuerzo de una compañia hacia la planeacion de la calidad
+>Se distribuyen en 3 clasificaciones diferentes por convivencia de analisis y control:
+>1. COSTS DE PREVENCIÓN >2.COSTS DE EVALUACIÓN>3. COSTS POR FALLAS
+>con un sistema de costos de calidad se puede planear con sentido y ayudar a producir un producto aceptable para el uso a que sera destinado
+a un minimo costo total.>Se debe fijar una meta realista de reducir costos de calidad cada año derivado de los planes de la compañia.
+>El personal responsable de  controlar los costo de calidad puede ser:>EL CONTRALOR DE FINANZAS>EL DEPTO DE CONTROL DE CALIDAD(AUDITORES)
